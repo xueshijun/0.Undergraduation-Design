@@ -1,0 +1,117 @@
+D:\ShopCenter\BLL\BLL\bin\Debug\BLL.dll
+D:\ShopCenter\BLL\BLL\bin\Debug\BLL.pdb
+D:\ShopCenter\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter\BLL\BLL\obj\Debug\BLL.dll
+D:\ShopCenter\BLL\BLL\obj\Debug\BLL.pdb
+D:\ShopCenter\BLL\BLL\bin\Debug\DAL.dll
+D:\ShopCenter\BLL\BLL\bin\Debug\Model.dll
+D:\ShopCenter\BLL\BLL\bin\Debug\Model.pdb
+D:\ShopCenter\BLL\BLL\bin\Debug\DAL.pdb
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.dll
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.pdb
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.dll
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.dll
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.pdb
+D:\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.pdb
+D:\ShopCenter v5.26\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.dll
+D:\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\BLL\BLL\obj\Debug\BLL.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\BLL.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\BLL.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\DAL.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\Entity.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\DAL.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\bin\Debug\Entity.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\obj\Debug\BLL.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\BLL\BLL\obj\Debug\BLL.pdb
+D:\毕设\ShopCenter v5.26 Beta\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\毕设\ShopCenter v5.26 Beta\BLL\obj\Debug\BLL.pdb
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\BLL.dll
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\BLL.pdb
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\DAL.dll
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\Entity.dll
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\DAL.pdb
+D:\毕设\ShopCenter v5.26 Beta\BLL\bin\Debug\Entity.pdb
+D:\毕设\ShopCenter v5.26 Beta\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v5.26 Beta\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v5.26 Beta\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v5.26 Beta\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v5.26 Beta\BLL\obj\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\BLL\obj\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\BLL\obj\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\BLL\obj\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\BLL\obj\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\BLL.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\Entity.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\bin\Debug\Entity.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\obj\Debug\BLL.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\BLL\obj\Debug\BLL.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\BLL.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\BLL.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\DAL.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\Entity.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\DAL.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\bin\Debug\Entity.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\obj\Debug\BLL.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+public partial class CheckUserExsits : System.Web.UI.Page
+{
+    Method method = new Method();
+    sqlHelper helper = new sqlHelper();
+    protected void Page_Load(object sender, EventArgs e)
+    { 
+        if (!IsPostBack)
+        { 
+            string userName = Request.QueryString["userEmail"].ToString();
+            if (userName.Trim().ToLower() == "")
+            {
+                Response.Write("<font color='red'>不可为空！</font>"); 
+            }
+            else if (method.ValidMethod(@"\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*",userName) != true)
+                {
+                    Response.Write("<font color='red'>请输入正确的邮箱格式！</font>");
+                }
+                else if (helper.GetdataSet("select Email from [User] where Email='" + userName.Trim() + "'").Tables[0].Rows.Count > 0)
+                { Response.Write("<font color='red'>不可用！</font>"); }
+                else { Response.Write("<font color=green>可用！</font>"); }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+D:\ShopCenter\DAL\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter\DAL\DAL\bin\Debug\DAL.dll
+D:\ShopCenter\DAL\DAL\bin\Debug\DAL.pdb
+D:\ShopCenter\DAL\DAL\obj\Debug\DAL.dll
+D:\ShopCenter\DAL\DAL\obj\Debug\DAL.pdb
+D:\ShopCenter v5.26\DAL\DAL\bin\Debug\DAL.dll
+D:\ShopCenter v5.26\DAL\DAL\bin\Debug\DAL.pdb
+D:\ShopCenter v5.26\DAL\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter v5.26\DAL\DAL\obj\Debug\DAL.dll
+D:\ShopCenter v5.26\DAL\DAL\obj\Debug\DAL.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\DAL\DAL\bin\Debug\DAL.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\DAL\DAL\bin\Debug\DAL.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\DAL\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\DAL\DAL\obj\Debug\DAL.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\DAL\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\DAL\obj\Debug\DAL.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.pdb
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.dll
+H:\南邮课程\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.pdb
+D:\毕设\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.dll
+D:\毕设\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.pdb
+D:\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.dll
+D:\毕设\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v5.26 Beta\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v5.26 Beta\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v5.26 Beta\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.11 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.11 Alpha\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.11 Alpha\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.13 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.13 Alpha\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.13 Alpha\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.19 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.19 Alpha\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.19 Alpha\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.21 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.21 Alpha\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.21 Alpha\DAL\obj\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\DAL\bin\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\DAL\bin\Debug\DAL.pdb
+D:\Graduation\ShopCenter v13.1.29 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Graduation\ShopCenter v13.1.29 Alpha\DAL\obj\Debug\DAL.dll
+D:\Graduation\ShopCenter v13.1.29 Alpha\DAL\obj\Debug\DAL.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\DAL\bin\Debug\DAL.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\DAL\bin\Debug\DAL.pdb
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\DAL\obj\Debug\DAL.dll
+D:\D\Graduation\ShopCenter v13.2.20 Alpha\DAL\obj\Debug\DAL.pdb

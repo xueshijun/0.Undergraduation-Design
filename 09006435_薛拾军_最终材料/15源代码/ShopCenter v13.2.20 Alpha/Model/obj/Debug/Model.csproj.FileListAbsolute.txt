@@ -1,0 +1,20 @@
+D:\ShopCenter\Model\Model\bin\Debug\Model.dll
+D:\ShopCenter\Model\Model\bin\Debug\Model.pdb
+D:\ShopCenter\Model\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter\Model\Model\obj\Debug\Model.dll
+D:\ShopCenter\Model\Model\obj\Debug\Model.pdb
+D:\ShopCenter v5.26\Model\Model\bin\Debug\Model.dll
+D:\ShopCenter v5.26\Model\Model\bin\Debug\Model.pdb
+D:\ShopCenter v5.26\Model\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopCenter v5.26\Model\Model\obj\Debug\Model.dll
+D:\ShopCenter v5.26\Model\Model\obj\Debug\Model.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\Model\Model\bin\Debug\Model.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\Model\Model\bin\Debug\Model.pdb
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\Model\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\Model\Model\obj\Debug\Model.dll
+H:\客户项目\ShopCenter v5.26 Beta\ShopCenter v5.26\Model\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\Model\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\Model\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\Model\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\Model\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ShopCenter v5.26\Model\Model\obj\Debug\Model.pdb

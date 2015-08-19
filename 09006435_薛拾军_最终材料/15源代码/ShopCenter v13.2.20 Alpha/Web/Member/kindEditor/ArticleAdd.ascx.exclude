@@ -1,0 +1,3 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ArticleAdd.ascx.cs" Inherits="kindEditor_ArticleAdd" %>
+
+<iframe src="../Admins/ArticleAddForm.aspx" frameborder="0" scrolling="no"  style="height: 300px; width:100%;"  ></iframe>

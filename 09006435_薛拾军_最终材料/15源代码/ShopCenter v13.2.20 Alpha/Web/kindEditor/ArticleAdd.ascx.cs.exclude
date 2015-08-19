@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+public partial class kindEditor_ArticleAdd : System.Web.UI.UserControl
+{
+    //BLL.Articles article = new BLL.Articles();
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        //if (!IsPostBack)
+        //{
+        //    ddlArticleClass.DataSource = article.GetDataSetArticleClass();
+        //    ddlArticleClass.DataTextField = "ClassName";
+        //    ddlArticleClass.DataValueField = "ClassID";
+        //    ddlArticleClass.DataBind();
+        //}
+    }
+    //protected void btnSubmit_Click(object sender, EventArgs e)
+    //{
+    //    if (article.InsertArticle(int.Parse(ddlArticleClass.SelectedValue.ToString()), txtTitle.Text, txtKeyWords.Text, txtDescription.Text, Textarea1.Value.Trim(), DateTime.Now, 1, "admin") > 0)
+    //    { Response.Write("ooooooooooooooooooooooookkkkkkkkkkkkkkkkkkkkkkkkkk"); }
+    //    else
+    //    { Response.Write("nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnkkkkkkkkkkkkkkkkkkkkkkkkkk"); }
+    //}
+}
